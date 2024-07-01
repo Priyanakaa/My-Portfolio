@@ -264,10 +264,10 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "CatChat",
+    title: "ConVersa",
     date: "May 2023 - Jun 2023",
     description:
-      "CatChat is a web application designed for the streamlined connection between the people.It is your ultimate app for seamless and instant communication. Whether you're connecting with friends, family, or colleagues, CatChat offers a user-friendly interface with features like instant messaging, group chats, and secure end-to-end encryption. Enjoy high-quality chattings, all synchronized across your devices. With this app, staying in touch has never been easier or more enjoyable. Join us today and revolutionize your way of connecting with the world!",
+      "Conversa is a web application designed for the streamlined connection between the people.It is your ultimate app for seamless and instant communication. Whether you're connecting with friends, family, or colleagues, ConVersa offers a user-friendly interface with features like instant messaging, group chats, and secure end-to-end encryption. Enjoy high-quality chattings, all synchronized across your devices. With this app, staying in touch has never been easier or more enjoyable. Join us today and revolutionize your way of connecting with the world!",
     image:
       "https://www.apphitect.ae/blog/wp-content/uploads/2022/08/Build-Android-Chat-App-800x520.png?x59142",
     tags: [
@@ -277,7 +277,7 @@ export const projects = [
       "Express Js",
     ],
    // category: "web app",
-   // github: "https://github.com/devisricharan1309/TalkSpace/tree/master/TalkSpace",
+    github: "https://github.com/Priyanakaa/ConVersa-Chat-Application.git",
     webapp: "https://774d-157-48-124-57.ngrok-free.app",
   },
   {
