@@ -290,7 +290,7 @@ export const projects = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUB3hj9e_dNcyzGygoPjhOtq1i8ylleDobZw&usqp=CAU",
     tags: ["React Js", "Node Js", "HTML", "CSS",""],
     //category: "web app",
-   // github: "https://github.com/rishavchanda/Podstream",
+    github: "https://github.com/Priyanakaa/My-Portfolio.git",
     webapp: "https://podstream.netlify.app/",
     member: [
       {
