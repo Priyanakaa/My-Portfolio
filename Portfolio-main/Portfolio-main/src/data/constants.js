@@ -8,7 +8,7 @@ export const Bio = {
     "I am a curious and driven individual who loves exploring new ideas and learning continuosly. With a passion for learning I am dedicated to delivering high-quality results and enjoy doing it.My friendly and adaptable nature helps me connect with people and thrive in diverse environments.",
   github: "https://github.com/Priyanakaa",
   resume:
-    "https://drive.google.com/file/d/1hchaVdLZOQ_XbGm9NEC-FKP-2z7GX7l3/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1mD8qOoKs7UYqL1wFZYpKSGaian2HY3LA/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ravirala-priyanka-7008a523b",
  // twitter: "https://x.com/devi_sri_charan",
   //insta: "https://www.instagram.com/_ohh_priyaaa_/",
